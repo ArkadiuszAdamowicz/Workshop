@@ -1,16 +1,13 @@
-# Torque 6 - An example of a personal brand website
+# Badger Garage - Car Workshop Website Project
 
-## This is a random personal brand website. The website is built using HTML, CSS, and JavaScript.
+## This is a website project for a car workshop, created using HTML, CSS, and JavaScript.
 
 ### Installation
 1. Clone the repository.
 2. Open index.html in your browser.
 
 ### Demo
-You can view a live demo of the website here: https://arkadiuszadamowicz.github.io/torque6/
-
-### Graphics
-All graphics on this website were created using artificial intelligence from MidJourney.
+You can view a live demo of the website here: https://arkadiuszadamowicz.github.io/Workshop/
 
 ### Technologies Used
 - HTML;
